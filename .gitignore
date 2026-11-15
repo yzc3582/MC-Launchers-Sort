@@ -1,0 +1,14 @@
+**.exe
+**.jar
+**.zip
+**.7z
+**.bat
+**.lnk
+**.json
+**.txt
+**.log
+**.url
+# I have to avoid .gitignore(Prevent ignoreing it)
+**/.**/**
+.**/**
+.minecraft
